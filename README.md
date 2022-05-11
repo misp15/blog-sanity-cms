@@ -25,3 +25,5 @@ in package.json add
 "build": "sanity build public -y"
 },
 install : npm i -D @sanity/cli
+
+npm install -g @sanity/cli && sanity init --template get-started --project 45nqog8k --dataset production --provider github

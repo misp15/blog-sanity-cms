@@ -4,7 +4,7 @@
     "name": "mili-blog"
   },
   "api": {
-    "projectId": "4f2hae0z",
+    "projectId": "45nqog8k",
     "dataset": "production"
   },
   "plugins": [
@@ -15,9 +15,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [
